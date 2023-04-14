@@ -1,5 +1,3 @@
-[[__TOC__]]
-
 # Levantar el servicio
 ```sh
 docker-compose up --build
