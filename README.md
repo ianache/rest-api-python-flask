@@ -1,4 +1,4 @@
-[[_TOC_]]
+[[__TOC__]]
 
 # Levantar el servicio
 ```sh
